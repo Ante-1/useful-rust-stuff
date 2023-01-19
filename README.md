@@ -26,7 +26,9 @@
 ### Books
 
 - The Rust Programming Language (The Book) https://doc.rust-lang.org/book/
-- Command-line Apps in Rust (CLI Book) https://rust-cli.github.io/book/
+- Command-line Apps in Rust (CLI Book) https://rust-cli.github.io/book/ - practical walkthrough of building a very simple grep clone (using crates)
+- Rust Cookbook https://rust-lang-nursery.github.io/rust-cookbook/ - Easy examples of common problems/tasks solved in rust
+- Rust by Example https://doc.rust-lang.org/rust-by-example/ - collection of runnable examples that illustrate various Rust concepts and standard libraries
 
 ### Youtube
 
