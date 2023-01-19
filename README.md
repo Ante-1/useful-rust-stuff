@@ -2,13 +2,19 @@
 
 ## Crates
 
+### Crate indexes
+
+- https://lib.rs/ - Fast, lightweight, opinionated, unofficial alternative to crates.io
+- https://crates.io/ - official crate library
+
+### Crates I used at least a bit or want to try
+
 - rand - random number generator
 - anyhow - error handling
 - clap - command-line argument parser/helper
 - serde - parsing eg. JSON
 - reqwest - simple higher-level HTTP client
 - indicatif - terminal progress bars
-- ansi_term - terminal colors and stuff
 - log - logging with levels and writing not only to terminal but eg. to a logging server
 - env_logger - based on log, configured with ENV vars
 - tokio - async runtime
