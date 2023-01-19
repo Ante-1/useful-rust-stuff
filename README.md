@@ -1,2 +1,35 @@
-# useful-rust-stuff
-a collection of useful rust crates and learning resources
+# Useful Rust Stuff
+
+## Crates
+
+- rand - random number generator
+- anyhow - error handling
+- clap - command-line argument parser/helper
+- serde - parsing eg. JSON
+- reqwest - simple higher-level HTTP client
+- indicatif - terminal progress bars
+- ansi_term - terminal colors and stuff
+- log - logging with levels and writing not only to terminal but eg. to a logging server
+- env_logger - based on log, configured with ENV vars
+- tokio - async runtime
+- actix-web - web server(framework), includes WebSockets
+- yew - Frontend/GUI framework, component-based, react-like, based on WASM
+
+## Learning
+
+### Books
+
+- The Rust Programming Language (The Book) https://doc.rust-lang.org/book/
+- Command-line Apps in Rust (CLI Book) https://rust-cli.github.io/book/
+
+### Youtube
+
+- Requesting and Parsing JSON with reqwest and serde: https://www.youtube.com/watch?v=ogpE4hviXyA
+
+## Cheatsheat
+
+- https://cheats.rs/
+
+## Another Rust Resources List
+
+- https://letsgetrusty.kartra.com/page/XDk8
