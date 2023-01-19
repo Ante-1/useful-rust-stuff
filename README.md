@@ -20,6 +20,8 @@
 - tokio - async runtime
 - actix-web - web server(framework), includes WebSockets
 - yew - Frontend/GUI framework, component-based, react-like, based on WASM
+- unicode-segmentation - Grapheme Cluster, Word and Sentence boundaries
+- regex - Regular Expressions
 
 ## Learning
 
@@ -27,7 +29,6 @@
 
 - The Rust Programming Language (The Book) https://doc.rust-lang.org/book/
 - Command-line Apps in Rust (CLI Book) https://rust-cli.github.io/book/ - practical walkthrough of building a very simple grep clone (using crates)
-- Rust Cookbook https://rust-lang-nursery.github.io/rust-cookbook/ - Easy examples of common problems/tasks solved in rust
 - Rust by Example https://doc.rust-lang.org/rust-by-example/ - collection of runnable examples that illustrate various Rust concepts and standard libraries
 
 ### Youtube
