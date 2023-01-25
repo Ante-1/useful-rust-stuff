@@ -12,7 +12,7 @@
 - rand - random number generator
 - anyhow - error handling
 - clap - command-line argument parser/helper
-- serde - parsing eg. JSON
+- serde - serializing/deserializing eg. JSON
 - reqwest - simple higher-level HTTP client
 - indicatif - terminal progress bars
 - log - logging with levels and writing not only to terminal but eg. to a logging server
@@ -22,6 +22,7 @@
 - yew - Frontend/GUI framework, component-based, react-like, based on WASM
 - unicode-segmentation - Grapheme Cluster, Word and Sentence boundaries
 - regex - Regular Expressions
+- chrono - dates and times
 
 ## Learning
 
